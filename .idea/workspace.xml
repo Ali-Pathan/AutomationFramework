@@ -1,0 +1,1263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1259ddfb-517f-4460-a7b1-48d1aee438f5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon/src/test/java/Search/InputSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon/src/test/resources/AmazonTestRunner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Geico2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Geico2/src/main/java/NavigationBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Geico2/src/test/java/base/BeforeNAfterMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Geico2/src/test/java/base/firstTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Geico2/src/test/java/homePage/AccessYourPolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Geico2/src/test/java/homePage/AutoInsurance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Geico2/src/test/java/homePage/InformationMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Geico2/src/test/java/homePage/NavigationBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Geico2/src/test/resources/GeicoTestRunner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/Drivers/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/Drivers/geckodriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/databaseinfo/secret.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/RootAPI/UsesAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumJavaProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumJavaProject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumJavaProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumJavaProject/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumJavaProject/Driver/geckodriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumJavaProject/SeleniumJavaProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumJavaProject/lib/byte-buddy-1.8.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumJavaProject/lib/commons-codec-1.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumJavaProject/lib/commons-exec-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumJavaProject/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumJavaProject/lib/guava-25.0-jre.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumJavaProject/lib/httpclient-4.5.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumJavaProject/lib/httpcore-4.4.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumJavaProject/lib/okhttp-3.10.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumJavaProject/lib/okio-1.14.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumJavaProject/lib/selenium-server-standalone-3.14.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumJavaProject/lib/testng-6.14.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumJavaProject/src/ecommerce/AmazonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-app/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-app/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-app/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-app/.idea/libraries/Maven__com_google_guava_guava_25_0_jre.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-app/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-app/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-app/.idea/libraries/Maven__com_squareup_okio_okio_1_14_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-app/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-app/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-app/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_8_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-app/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-app/.idea/libraries/Maven__org_apache_extras_beanshell_bsh_2_0b6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-app/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_3_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-app/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-app/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-app/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-app/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-app/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-app/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-app/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-app/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-app/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-app/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-app/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-app/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-app/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-app/.idea/libraries/Maven__org_testng_testng_6_14_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject1.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject1/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject1/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject1/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject1/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject1/bin/welcome/HelloWorldEarth.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject1/project1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject1/src/welcome/HelloWorldEarth.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject10.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject11/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject11/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject11/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject11/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject11/MySQl_MongoDB.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject11/driver/mysql-connector-java-6.0.6-bin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject11/lib/mongo-java-driver-3.4.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject11/lib/mysql-connector-java-5.1.41-bin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject11/out/production/MySQl_MongoDB/database/ConnectDB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject11/out/production/MySQl_MongoDB/database/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject11/out/production/MySQl_MongoDB/datastructure/UseArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject11/out/production/MySQl_MongoDB/datastructure/UseHashMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject11/out/production/MySQl_MongoDB/datastructure/UseLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject11/out/production/MySQl_MongoDB/datastructure/UseListHashMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject11/out/production/MySQl_MongoDB/datastructure/UseQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject11/out/production/MySQl_MongoDB/datastructure/UseStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject11/out/production/MySQl_MongoDB/problem/solving/FibonacciSeries.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject11/out/production/MySQl_MongoDB/problem/solving/PrimeNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject11/out/production/MySQl_MongoDB/secret.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject11/out/production/MySQl_MongoDB/sorting/ApplySorting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject11/out/production/MySQl_MongoDB/sorting/Sorting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject11/out/production/MySQl_MongoDB/sorting/UseInsertionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject11/out/production/MySQl_MongoDB/swapping/Swap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject11/out/production/MySQl_MongoDB/unit/testing/ApplyUnitTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject11/out/production/project11/database/ConnectDB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject11/out/production/project11/database/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject11/out/production/project11/datastructure/UseArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject11/out/production/project11/datastructure/UseHashMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject11/out/production/project11/datastructure/UseLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject11/out/production/project11/datastructure/UseListHashMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject11/out/production/project11/datastructure/UseQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject11/out/production/project11/datastructure/UseStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject11/out/production/project11/problem/solving/FibonacciSeries.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject11/out/production/project11/problem/solving/PrimeNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject11/out/production/project11/secret.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject11/out/production/project11/sorting/ApplySorting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject11/out/production/project11/sorting/Sorting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject11/out/production/project11/sorting/UseInsertionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject11/out/production/project11/swapping/Swap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject11/out/production/project11/unit/testing/ApplyUnitTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject11/src/database/ConnectDB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject11/src/database/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject11/src/datastructure/UseArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject11/src/datastructure/UseHashMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject11/src/datastructure/UseLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject11/src/datastructure/UseListHashMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject11/src/datastructure/UseQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject11/src/datastructure/UseStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject11/src/problem/solving/FibonacciSeries.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject11/src/problem/solving/PrimeNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject11/src/secret.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject11/src/sorting/ApplySorting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject11/src/sorting/Sorting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject11/src/sorting/UseInsertionSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject11/src/swapping/Swap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject11/src/unit/testing/ApplyUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject12.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject12/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject12/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject12/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject12/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject12/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject12/out/production/project12/serialization/DeserializeObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject12/out/production/project12/serialization/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject12/out/production/project12/serialization/SerializeObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject12/project12.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject12/src/serialization/DeserializeObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject12/src/serialization/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject12/src/serialization/SerializeObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject2.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject2/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject2/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject2/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject2/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject2/bin/constructor/House.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject2/bin/constructor/TestHouse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject2/project2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject2/src/constructor/House.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject2/src/constructor/TestHouse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject6.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject7.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject8.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject8/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject8/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject8/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject8/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject8/out/production/project8/arraylist/example/UseOfArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject8/out/production/project8/arraylist/example/UseOfIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject8/out/production/project8/finalize/example/TestFinalize.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject8/out/production/project8/nested/loop/NestedLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject8/out/production/project8/singleton/example/House.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject8/out/production/project8/singleton/example/TestHouse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject8/out/production/project8/string/example/UseOfString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject8/project8.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject8/src/arraylist/example/UseOfArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject8/src/arraylist/example/UseOfIterator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject8/src/finalize/example/TestFinalize.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject8/src/nested/loop/NestedLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject8/src/singleton/example/House.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject8/src/singleton/example/TestHouse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject8/src/string/example/UseOfString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Projests/JavaProject9.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../July2018WebAutomation_9_16_18/July2018WebAutomation" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/Generic/target/" />
+    <ignored path="$PROJECT_DIR$/FaceBook/target/" />
+    <ignored path="$PROJECT_DIR$/Ebay/target/" />
+    <ignored path="$PROJECT_DIR$/Amazon/target/" />
+    <ignored path="$PROJECT_DIR$/Geico/target/" />
+    <ignored path="$PROJECT_DIR$/Geico/Geico2/target/" />
+    <ignored path="$PROJECT_DIR$/Geico2/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1484655355">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="2" />
+          <entry key="iml" value="2" />
+          <entry key="java" value="43" />
+          <entry key="properties" value="1" />
+          <entry key="xml" value="20" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="2" />
+          <entry key="IDEA_MODULE" value="2" />
+          <entry key="JAVA" value="43" />
+          <entry key="Properties" value="1" />
+          <entry key="XML" value="20" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="11" />
+          <entry key="java" value="1011" />
+          <entry key="xml" value="247" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1011" />
+          <entry key="PLAIN_TEXT" value="11" />
+          <entry key="XML" value="247" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Geico2/src/test/resources/GeicoTestRunner.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Geico2/src/test/java/base/BeforeNAfterMethods.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="149">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Geico2/src/test/java/base/firstTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Geico2/src/test/java/homePage/AccessYourPolicy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Geico2/src/test/java/homePage/AutoInsurance.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Geico2/src/test/java/homePage/InformationMenu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Geico2/src/test/java/homePage/NavigationBar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/RootAPI/UsesAPI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="277">
+              <caret line="18" column="137" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="143" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Geico2/src/main/java/NavigationBar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>chr</find>
+      <find>Navigat</find>
+      <find>Naviga</find>
+      <find>clic</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/FaceBook/pom.xml" />
+        <option value="$PROJECT_DIR$/FaceBook/src/test/java/SignUp.java" />
+        <option value="$PROJECT_DIR$/FaceBook/src/test/resources/FaceBookTestRunner.xml" />
+        <option value="$PROJECT_DIR$/Amazon/src/test/resources/FaceBookTestRunner.xml" />
+        <option value="$PROJECT_DIR$/Geico/src/test/java/Search/SerchInGeico.java" />
+        <option value="$PROJECT_DIR$/Geico/src/test/java/MainMetod/WhatToDo.java" />
+        <option value="$PROJECT_DIR$/Geico/src/test/java/MainMetod/Methods.java" />
+        <option value="$PROJECT_DIR$/Geico/src/test/java/MainMethod/Methods.java" />
+        <option value="$PROJECT_DIR$/Geico/src/test/java/HomePage/AccessYourPolicy.java" />
+        <option value="$PROJECT_DIR$/Geico/src/test/java/HomePage/AutoInsurance.java" />
+        <option value="$PROJECT_DIR$/Geico/src/test/java/HomePage/InformationMenu.java" />
+        <option value="$PROJECT_DIR$/Geico/src/test/java/HomePage/NavigationBar.java" />
+        <option value="$PROJECT_DIR$/Geico/src/main/java/ManuBar.java" />
+        <option value="$PROJECT_DIR$/Geico/src/test/resources/GeicoTestRunner.xml" />
+        <option value="$PROJECT_DIR$/Amazon/src/test/resources/AmazonTestRunner.xml" />
+        <option value="$PROJECT_DIR$/Generic/pom.xml" />
+        <option value="$PROJECT_DIR$/Amazon/src/test/java/Search/InputSearch.java" />
+        <option value="$PROJECT_DIR$/Geico/Geico2/pom.xml" />
+        <option value="$PROJECT_DIR$/Geico/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/Geico2/pom.xml" />
+        <option value="$PROJECT_DIR$/Amazon/pom.xml" />
+        <option value="$PROJECT_DIR$/Amazon/src/main/java/Home/SearchPage.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/main/java/Home/ItemsToBeSearched.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/reporting/ApplicationLog.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/utility/DataReader.java" />
+        <option value="$PROJECT_DIR$/Geico2/src/main/java/SkipPopUp/PopUp.java" />
+        <option value="$PROJECT_DIR$/Geico2/src/test/java/Zip/InputZip.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/RootAPI/UsesAPI.java" />
+        <option value="$PROJECT_DIR$/Geico2/src/test/java/Zip/Skip.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/main/java/NavigationBarOptionMethod.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/test/java/base/BeforeNAfterMethods.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/test/java/base/firstTest.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/test/java/homePage/AccessYourPolicy.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/test/java/homePage/AutoInsurance.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/test/java/homePage/InformationMenu.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/test/java/homePage/NavigationBar.java" />
+        <option value="$PROJECT_DIR$/Geico2/src/test/java/base/firstTest.java" />
+        <option value="$PROJECT_DIR$/Geico2/src/test/java/homePage/InformationMenu.java" />
+        <option value="$PROJECT_DIR$/Geico2/src/test/java/homePage/NavigationBar.java" />
+        <option value="$PROJECT_DIR$/Geico2/src/main/java/NavigationBarOptionMethod.java" />
+        <option value="$PROJECT_DIR$/Geico2/src/test/java/base/BeforeNAfterMethods.java" />
+        <option value="$PROJECT_DIR$/Geico2/src/test/java/homePage/AccessYourPolicy.java" />
+        <option value="$PROJECT_DIR$/Geico2/src/test/resources/GeicoTestRunner.xml" />
+        <option value="$PROJECT_DIR$/Geico2/src/test/java/homePage/AutoInsurance.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Amazon" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Amazon" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="FrameWork" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="FrameWork" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Geico2" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Geico2" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Generic" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="22" />
+    <option name="width" value="1680" />
+    <option name="height" value="949" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="FrameWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FrameWork" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FrameWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FrameWork" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FrameWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FrameWork" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FrameWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FrameWork" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FrameWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FrameWork" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FrameWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FrameWork" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FrameWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FrameWork" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Search" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FrameWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FrameWork" type="462c0819:PsiDirectoryNode" />
+              <item name="Geico2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FrameWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FrameWork" type="462c0819:PsiDirectoryNode" />
+              <item name="Geico2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FrameWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FrameWork" type="462c0819:PsiDirectoryNode" />
+              <item name="Geico2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FrameWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FrameWork" type="462c0819:PsiDirectoryNode" />
+              <item name="Geico2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FrameWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FrameWork" type="462c0819:PsiDirectoryNode" />
+              <item name="Geico2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FrameWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FrameWork" type="462c0819:PsiDirectoryNode" />
+              <item name="Geico2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FrameWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FrameWork" type="462c0819:PsiDirectoryNode" />
+              <item name="Geico2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FrameWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FrameWork" type="462c0819:PsiDirectoryNode" />
+              <item name="Geico2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="homePage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FrameWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FrameWork" type="462c0819:PsiDirectoryNode" />
+              <item name="Geico2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FrameWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FrameWork" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FrameWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FrameWork" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="Drivers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FrameWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FrameWork" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FrameWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FrameWork" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FrameWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FrameWork" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FrameWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FrameWork" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="RootAPI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FrameWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FrameWork" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537766396887" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Generic" />
+      <recent name="$PROJECT_DIR$/Generic/src/main/java" />
+      <recent name="$PROJECT_DIR$/Geico2/src/test" />
+      <recent name="$PROJECT_DIR$/Geico/src/test/java" />
+      <recent name="$PROJECT_DIR$/Geico/src/test" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="utility" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Generic/Drivers" />
+      <recent name="$PROJECT_DIR$/FaceBook/src/test" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG./Users/rajive/Documents/Projects/Selenium/Maven/FrameWork/Geico2/src/test/resources/GeicoTestRunner.xml (2)">
+    <configuration name="Skip.SkippU" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Geico2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Zip.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Zip" />
+      <option name="MAIN_CLASS_NAME" value="Zip.Skip" />
+      <option name="METHOD_NAME" value="SkippU" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Skip.on" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Geico2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Zip.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Zip" />
+      <option name="MAIN_CLASS_NAME" value="Zip.Skip" />
+      <option name="METHOD_NAME" value="on" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/rajive/Documents/Projects/Selenium/Maven/FrameWork/Amazon/src/test/resources/AmazonTestRunner.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Amazon" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Amazon/src/test/resources/AmazonTestRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/rajive/Documents/Projects/Selenium/Maven/FrameWork/Geico2/src/test/resources/GeicoTestRunner.xml (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FrameWork" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Geico2/src/test/resources/GeicoTestRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/rajive/Documents/Projects/Selenium/Maven/FrameWork/Geico2/src/test/resources/GeicoTestRunner.xml (2)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Geico2" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Geico2/src/test/resources/GeicoTestRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG./Users/rajive/Documents/Projects/Selenium/Maven/FrameWork/Amazon/src/test/resources/AmazonTestRunner.xml" />
+      <item itemvalue="TestNG./Users/rajive/Documents/Projects/Selenium/Maven/FrameWork/Geico2/src/test/resources/GeicoTestRunner.xml (1)" />
+      <item itemvalue="TestNG./Users/rajive/Documents/Projects/Selenium/Maven/FrameWork/Geico2/src/test/resources/GeicoTestRunner.xml (2)" />
+      <item itemvalue="TestNG.Skip.SkippU" />
+      <item itemvalue="TestNG.Skip.on" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/rajive/Documents/Projects/Selenium/Maven/FrameWork/Geico2/src/test/resources/GeicoTestRunner.xml (2)" />
+        <item itemvalue="TestNG.Skip.on" />
+        <item itemvalue="TestNG.Skip.SkippU" />
+        <item itemvalue="TestNG./Users/rajive/Documents/Projects/Selenium/Maven/FrameWork/Amazon/src/test/resources/AmazonTestRunner.xml" />
+        <item itemvalue="TestNG./Users/rajive/Documents/Projects/Selenium/Maven/FrameWork/Geico2/src/test/resources/GeicoTestRunner.xml (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1259ddfb-517f-4460-a7b1-48d1aee438f5" name="Default Changelist" comment="" />
+      <created>1537587651816</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537587651816</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="_Users_rajive_Documents_Projects_Selenium_Maven_FrameWork_Geico2_src_test_resources_GeicoTestRunner_xml_(2) - 2018.09.24 at 00h 04m 56s.xml">
+      <configuration name="/Users/rajive/Documents/Projects/Selenium/Maven/FrameWork/Geico2/src/test/resources/GeicoTestRunner.xml (2)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Skip_on - 2018.09.24 at 00h 16m 58s.xml">
+      <configuration name="Skip.on" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_rajive_Documents_Projects_Selenium_Maven_FrameWork_Geico2_src_test_resources_GeicoTestRunner_xml_(2) - 2018.09.24 at 00h 18m 28s.xml">
+      <configuration name="/Users/rajive/Documents/Projects/Selenium/Maven/FrameWork/Geico2/src/test/resources/GeicoTestRunner.xml (2)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_rajive_Documents_Projects_Selenium_Maven_FrameWork_Geico2_src_test_resources_GeicoTestRunner_xml_(2) - 2018.09.24 at 00h 45m 17s.xml">
+      <configuration name="/Users/rajive/Documents/Projects/Selenium/Maven/FrameWork/Geico2/src/test/resources/GeicoTestRunner.xml (2)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_rajive_Documents_Projects_Selenium_Maven_FrameWork_Geico2_src_test_resources_GeicoTestRunner_xml_(2) - 2018.09.24 at 00h 49m 29s.xml">
+      <configuration name="/Users/rajive/Documents/Projects/Selenium/Maven/FrameWork/Geico2/src/test/resources/GeicoTestRunner.xml (2)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_rajive_Documents_Projects_Selenium_Maven_FrameWork_Geico2_src_test_resources_GeicoTestRunner_xml_(2) - 2018.09.24 at 00h 56m 51s.xml">
+      <configuration name="/Users/rajive/Documents/Projects/Selenium/Maven/FrameWork/Geico2/src/test/resources/GeicoTestRunner.xml (2)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_rajive_Documents_Projects_Selenium_Maven_FrameWork_Geico2_src_test_resources_GeicoTestRunner_xml_(2) - 2018.09.24 at 00h 59m 37s.xml">
+      <configuration name="/Users/rajive/Documents/Projects/Selenium/Maven/FrameWork/Geico2/src/test/resources/GeicoTestRunner.xml (2)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_rajive_Documents_Projects_Selenium_Maven_FrameWork_Geico2_src_test_resources_GeicoTestRunner_xml_(2) - 2018.09.24 at 01h 06m 35s.xml">
+      <configuration name="/Users/rajive/Documents/Projects/Selenium/Maven/FrameWork/Geico2/src/test/resources/GeicoTestRunner.xml (2)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_rajive_Documents_Projects_Selenium_Maven_FrameWork_Geico2_src_test_resources_GeicoTestRunner_xml_(2) - 2018.09.24 at 01h 10m 34s.xml">
+      <configuration name="/Users/rajive/Documents/Projects/Selenium/Maven/FrameWork/Geico2/src/test/resources/GeicoTestRunner.xml (2)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_rajive_Documents_Projects_Selenium_Maven_FrameWork_Geico2_src_test_resources_GeicoTestRunner_xml_(2) - 2018.09.24 at 01h 12m 53s.xml">
+      <configuration name="/Users/rajive/Documents/Projects/Selenium/Maven/FrameWork/Geico2/src/test/resources/GeicoTestRunner.xml (2)" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <layout>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" sideWeight="0.5010482" side_tool="true" weight="0.24959612" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.4989518" visible="true" weight="0.25274727" />
+      <window_info id="Structure" order="6" sideWeight="0.5010482" side_tool="true" weight="0.24959612" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" sideWeight="0.4993895" visible="true" weight="0.25287357" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50061053" side_tool="true" weight="0.3291536" />
+      <window_info anchor="bottom" x="556" y="577" width="799" height="368" id="Messages" order="3" type="FLOATING" weight="0.32914045" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.3291536" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.41274816" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.5167866" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.32886723" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" weight="0.06898657" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="right" id="Mongo Explorer" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" sideWeight="0.5010482" side_tool="true" weight="0.24959612" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.4989518" visible="true" weight="0.23565324" />
+      <window_info id="Structure" order="6" sideWeight="0.5010482" side_tool="true" weight="0.24959612" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.4993895" weight="0.25287357" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50061053" side_tool="true" weight="0.3291536" />
+      <window_info anchor="bottom" x="556" y="577" width="799" height="368" id="Messages" order="3" type="FLOATING" weight="0.32914045" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.3291536" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.59504133" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.5167866" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.32886723" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" visible="true" weight="0.06898657" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="right" id="Mongo Explorer" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Generic/src/main/java/RootAPI/UsesAPI.java</url>
+          <line>28</line>
+          <properties class="RootAPI.UsesAPI" method="typeOnCss">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Amazon/src/test/java/Search/InputSearch.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Geico/src/test/java/Search/SerchInGeico.java" />
+    <entry file="file://$PROJECT_DIR$/Geico/src/test/java/MainMethod/WhatToDo.java" />
+    <entry file="file://$PROJECT_DIR$/Geico/src/test/java/MainMethod/Methods.java" />
+    <entry file="file://$PROJECT_DIR$/Geico/src/test/java/HomePage/AccessYourPolicy.java" />
+    <entry file="file://$PROJECT_DIR$/Geico/src/test/java/HomePage/AutoInsurance.java" />
+    <entry file="file://$PROJECT_DIR$/Geico/src/test/java/HomePage/InformationMenu.java" />
+    <entry file="file://$PROJECT_DIR$/Geico/src/test/java/HomePage/NavigationBar.java" />
+    <entry file="file://$PROJECT_DIR$/Geico/src/main/java/ManuBar.java" />
+    <entry file="file://$PROJECT_DIR$/FrameWork.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.14.0/selenium-remote-driver-3.14.0.jar!/org/openqa/selenium/remote/RemoteWebDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="279" selection-start-line="279" selection-end-line="279" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Geico/Geico.iml" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.14.0/selenium-api-3.14.0.jar!/org/openqa/selenium/By.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Geico/Geico2/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/Geico2/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="59" selection-start-line="22" selection-start-column="59" selection-end-line="22" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.14.0/selenium-remote-driver-3.14.0-sources.jar!/org/openqa/selenium/remote/RemoteWebDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3914">
+          <caret line="308" column="32" selection-start-line="308" selection-start-column="32" selection-end-line="308" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/test/resources/AmazonTestRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="51" lean-forward="true" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/Home/SearchPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/Home/ItemsToBeSearched.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="34" column="35" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/TestLogger.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/database/ConnectDB.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentTestManager.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ApplicationLog.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/databaseinfo/secret.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/utility/DataReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="84" column="31" selection-start-line="84" selection-start-column="31" selection-end-line="84" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Geico2/src/main/java/SkipPopUp/PopUp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/Search/InputSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#223#224#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/InterruptedException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="49" column="6" selection-start-line="49" selection-start-column="6" selection-end-line="49" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Geico2/src/test/java/Zip/Skip.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="77" selection-start-line="9" selection-start-column="77" selection-end-line="9" selection-end-column="77" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/NavigationBarOptionMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/RootAPI/UsesAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="18" column="137" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="143" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Geico2/src/test/java/Zip/InputZip.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Geico2/src/main/java/NavigationBar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Geico2/src/test/java/base/BeforeNAfterMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Geico2/src/test/java/base/firstTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Geico2/src/test/java/homePage/AccessYourPolicy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Geico2/src/test/resources/GeicoTestRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Geico2/src/test/java/homePage/NavigationBar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Geico2/src/test/java/homePage/InformationMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Geico2/src/test/java/homePage/AutoInsurance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Generic</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.beust:jcommander:1.72</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
